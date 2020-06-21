@@ -1,3 +1,3 @@
 # happy-eliminate
 
-Download the XXL.exe and run.
+Download the Release.win32.exe and run.
